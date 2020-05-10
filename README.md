@@ -1,5 +1,11 @@
 # Similarity Search in High Dimensions via Hashing
 
+# Paper
+https://www.cs.princeton.edu/courses/archive/spr05/cos598E/bib/Gionis.pdf
+
+# Reference
+Gionis A . Similarity Search in High Dimensions via Hashing[C]// Proc of Vldb Conference. Morgan Kaufmann Publishers Inc. 1999.
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
